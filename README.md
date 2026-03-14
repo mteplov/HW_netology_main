@@ -41,7 +41,7 @@ https://hub.docker.com/repository/docker/mteplov81/custom-nginx/general
 
 В качестве ответа приложите скриншоты консоли, где видно все введенные команды и их вывод.
 ### ОТВЕТ
-![image](https://github.com/mteplov/HW_netology_main/screen/zadanie-2.png)
+![image](https://github.com/mteplov/HW_netology_main/blob/main/screen/zadanie-2.png)
 
 
 
@@ -61,10 +61,10 @@ https://hub.docker.com/repository/docker/mteplov81/custom-nginx/general
 
 В качестве ответа приложите скриншоты консоли, где видно все введенные команды и их вывод.
 ### ОТВЕТ
-![image](https://github.com/mteplov/HW_netology_main/screen/zadanie-3.1.png)
-![image](https://github.com/mteplov/HW_netology_main/screen/zadanie-3.2.png)
-![image](https://github.com/mteplov/HW_netology_main/screen/zadanie-3.3.png)
-![image](https://github.com/mteplov/HW_netology_main/screen/zadanie-3.4.png)
+![image](https://github.com/mteplov/HW_netology_main/blob/main/screen/zadanie-3.1.png)
+![image](https://github.com/mteplov/HW_netology_main/blob/main/screen/zadanie-3.2.png)
+![image](https://github.com/mteplov/HW_netology_main/blob/main/screen/zadanie-3.3.png)
+![image](https://github.com/mteplov/HW_netology_main/blob/main/screen/zadanie-3.4.png)
 
 Проблемы и решения:
 
@@ -84,7 +84,7 @@ https://hub.docker.com/repository/docker/mteplov81/custom-nginx/general
 
 В качестве ответа приложите скриншоты консоли, где видно все введенные команды и их вывод.
 ## ОТВЕТ 
-![image](https://github.com/mteplov/HW_netology_main/screen/zadanie-4.png)
+![image](https://github.com/mteplov/HW_netology_main/blob/main/screen/zadanie-4.png)
 
 
 ## Задача 5
@@ -136,11 +136,11 @@ services:
 
 В качестве ответа приложите скриншоты консоли, где видно все введенные команды и их вывод, файл compose.yaml , скриншот portainer c задеплоенным компоузом.
 ## ОТВЕТ 
-![image](https://github.com/mteplov/HW_netology_main/screen/zadanie-5.1.png)
-![image](https://github.com/mteplov/HW_netology_main/screen/zadanie-5.2.png)
-![image](https://github.com/mteplov/HW_netology_main/screen/zadanie-5.3.png)
-![image](https://github.com/mteplov/HW_netology_main/screen/zadanie-5.4.png)
-![image](https://github.com/mteplov/HW_netology_main/screen/zadanie-5.5.png)
-![image](https://github.com/mteplov/HW_netology_main/screen/zadanie-5.6.png)
-![image](https://github.com/mteplov/HW_netology_main/screen/zadanie-5.7.png)
+![image](https://github.com/mteplov/HW_netology_main/blob/main/screen/zadanie-5.1.png)
+![image](https://github.com/mteplov/HW_netology_main/blob/main/screen/zadanie-5.2.png)
+![image](https://github.com/mteplov/HW_netology_main/blob/main/screen/zadanie-5.3.png)
+![image](https://github.com/mteplov/HW_netology_main/blob/main/screen/zadanie-5.4.png)
+![image](https://github.com/mteplov/HW_netology_main/blob/main/screen/zadanie-5.5.png)
+![image](https://github.com/mteplov/HW_netology_main/blob/main/screen/zadanie-5.6.png)
+![image](https://github.com/mteplov/HW_netology_main/blob/main/screen/zadanie-5.7.png)
 
